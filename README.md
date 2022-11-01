@@ -12,6 +12,10 @@ The goal of this project is to use what you know about visualizations and probab
 Data cleaning has been completed. 
   The column "car" has too many rows of missing data so decide to keep it in the dataset. On the other hand, lower missing row count is in the colimns "Bar" and "RestaurantsLessThan20" so I will be removing na values from the dataset.
   
+  Clean data visualization:
+  ![download1](https://user-images.githubusercontent.com/16770936/199153990-e55ee48e-9424-48ff-b8af-1d9beb2ae06a.png)
+
+  
   What proportion of the total observations chose to accept the coupon?
     56.81 % of all coupons are accepted
     
