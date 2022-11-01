@@ -31,14 +31,17 @@ Data cleaning has been completed.
   **Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.**
   Answer: 28.7 % of people with the ocupation other than farming, fishing or forestry visit bar more than once a month without kids and used the coupon
     
-   **Compare the acceptance rates between those drivers who:
-go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
-go to bars more than once a month and are under the age of 30 OR
-go to cheap restaurants more than 4 times a month and income is less than 50K.**
-
-  37.7 % of people with the ocupation other than farming, fishing or forestry visit bar more than once a month without kids and used the coupon
-  31.2 % of people older than 25 and visit bar more than once a month used the coupon
-  Given group had, 382 rejected the coupon and 294 accepted for 0.43 % acceptance rate
+   **Compare the acceptance rates between those drivers who:**
+   
+   **go to bars more than once a month, had passengers that were not a kid, and were not widowed**
+   37.7 % of people with the ocupation other than farming, fishing or forestry visit bar more than once a month without kids and used the coupon
+   
+   **go to bars more than once a month and are under the age of 30**
+   31.2 % of people older than 25 and visit bar more than once a month used the coupon
+   
+   **go to cheap restaurants more than 4 times a month and income is less than 50K.**
+   Given group had, 382 rejected the coupon and 294 accepted for 0.43 % acceptance rate
   
 **Conclusion**
+
 **The passengers of the drivers were more likely friends, rather than children, and were classified as unemployed or students.**
