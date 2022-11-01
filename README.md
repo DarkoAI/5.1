@@ -20,10 +20,14 @@ Data cleaning has been completed.
   
   Answer: 56.81 % of all coupons are accepted
     
+  ![download2](https://user-images.githubusercontent.com/16770936/199155154-eb4a482a-5ebc-456a-91eb-5694c4d670d7.png)
+
   **What proportion of bar coupons were accepted?**
   
   Answer: 40.97 % of all bar coupons are accepted
-    
+ 
+ ![download3](https://user-images.githubusercontent.com/16770936/199155281-4f68b24e-68df-4857-ba9f-907af29e4240.png)
+
   **Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.**
   
   Answer: 47.3 % of people that visited bar less than 3 times a month used the coupon while only 23.1 % people that vistis the bar more than 3 times a month is using the coupon
@@ -32,6 +36,9 @@ Data cleaning has been completed.
   
   Answer: 31.2 % of people older than 25 visit bar more than once a month and used the coupon while 62.2 % people that used coupon visited bar less then once per month
     
+    
+  ![download4](https://user-images.githubusercontent.com/16770936/199155364-97bd65b8-016e-42dd-92db-e50938423114.png)
+
   **Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.**
   
   Answer: 28.7 % of people with the ocupation other than farming, fishing or forestry visit bar more than once a month without kids and used the coupon
@@ -49,6 +56,8 @@ Data cleaning has been completed.
    **go to cheap restaurants more than 4 times a month and income is less than 50K.**
    
    Given group had, 382 rejected the coupon and 294 accepted for 0.43 % acceptance rate
+   
+   
    
   
 **Conclusion**
