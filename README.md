@@ -17,10 +17,12 @@ Data cleaning has been completed.
 
   
   What proportion of the total observations chose to accept the coupon?
-    56.81 % of all coupons are accepted
+  
+  56.81 % of all coupons are accepted
     
    What proportion of bar coupons were accepted?
-    40.97 % of all bar coupons are accepted
+   
+   40.97 % of all bar coupons are accepted
     
    Compare the acceptance rate between those who went to a bar 3 or fewer times a month to those who went more.
     47.3 % of people that visited bar less than 3 times a month used the coupon while only 23.1 % people that vistis the bar more than 3 times a month is using the coupon
