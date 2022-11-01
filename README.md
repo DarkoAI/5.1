@@ -58,7 +58,11 @@ Data cleaning has been completed.
    Given group had, 382 rejected the coupon and 294 accepted for 0.43 % acceptance rate
    
    
-   
+   ![download5](https://user-images.githubusercontent.com/16770936/199155770-83a67f39-60c6-4c95-8864-6cfbab400817.png)
+
+   **Does weather affect coupon acceptance?**
+   Answer: More coupons were issuead for during the summer time but very similar usage compare to the other periods of the year.
+  
   
 **Conclusion**
 
